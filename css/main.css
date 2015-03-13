@@ -1,0 +1,17 @@
+html{
+  background-color: #fff;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+*, *::before, *::after{
+  box-sizing: inherit;
+}
+
+
+
+
+
+ for chinese character and shiooblahboo{
+text-shadow: #222222 2px 4px 3px;
+}
