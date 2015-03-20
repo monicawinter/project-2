@@ -35,7 +35,7 @@ header h1{
   text-align: center;
   width: 100%;
   margin: 0em;
-  bottom: 17.75em;
+  bottom: 7.4em;
   left: 0em;
   font-size: 2.25em;
   font-weight: bold;
@@ -46,7 +46,7 @@ header h2{
   text-align: center;
   width: 100%;
   margin: 0em;
-  bottom: 50.75em;
+  bottom: 19.75em;
   left: 0em;
   font-size: 0.75em;
 }
@@ -107,7 +107,7 @@ nav ol{
 .banner{
 background-color:#fff;
 position: relative;
-clear: left;
+clear: both;
 float: left;
 width: 100%;
 }
